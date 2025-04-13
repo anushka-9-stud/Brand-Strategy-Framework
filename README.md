@@ -1,7 +1,7 @@
 Brand Strategy Assistant
 
 Author: Anushka Chintala  
-Purpose:This Python application assists users in building a brand strategy by analyzing input parameters and providing actionable insights through a graphical user interface (GUI).
+Purpose: This Python application assists users in building a brand strategy by analyzing input parameters and providing actionable insights through a graphical user interface (GUI).
 
 ---
 
@@ -10,10 +10,10 @@ Purpose:This Python application assists users in building a brand strategy by an
 ```bash
 brand-strategy-assistant/
 │
-├── brandstrategy_code.py     # Core logic for brand strategy generation
-├── gui.py                    # Tkinter GUI to interact with the assistant
+├── README.md                 # Project documentation
 ├── brand_strategies/         # Folder where CSV outputs are saved
-└── README.md                 # Project documentation
+├── brandstrategy_code.py     # Core logic for brand strategy generation
+└── gui.py                    # Tkinter GUI to interact with the assistant
 ```
 
 ---
