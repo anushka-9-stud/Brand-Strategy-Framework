@@ -11,7 +11,7 @@ Purpose: This Python application assists users in building a brand strategy by a
 brand-strategy-assistant/
 │
 ├── README.md                 # Project documentation
-├── brand_strategies/         # Folder where CSV outputs are saved
+├── brand_strategies.csv        # Folder where CSV outputs are saved
 ├── brandstrategy_code.py     # Core logic for brand strategy generation
 └── gui.py                    # Tkinter GUI to interact with the assistant
 ```
